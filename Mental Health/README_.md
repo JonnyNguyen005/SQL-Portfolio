@@ -6,24 +6,14 @@ The findings revealed that international students are more vulnerable to mental 
 
 To further explore this issue, student data was analyzed using PostgreSQL. The objective was to determine whether similar conclusions could be drawn about international students and to examine whether the duration of their stay had any influence.
 
-Below, you will find a description of the columns in the dataset.
-
-![field name and description](https://github.com/user-attachments/assets/47ccfcf3-d0e4-463a-a7b7-274e83288d76)
-
 ## Explore and Understand the data:
 
 In the initial phase of the project, the dataset is thoroughly examined to gain a clear understanding. This includes counting the total number of records and grouping them to differentiate between international and domestic students in order to analyze their respective numbers.
-
-![raw data set](https://github.com/user-attachments/assets/8a898ece-5468-4610-961d-b4fbee326d7f)
-
-![determine the total number of records](https://github.com/user-attachments/assets/143a5d51-6e67-48e8-9c54-c3d47a3d8694)
 
 ## The impact of length of stay
 
 A new query is created to assess how the length of stay influences the average diagnostic scores of international students. Results should be rounded to two decimal places and displayed in descending order of length of stay. Use the following aliases in the specified order: average_phq, average_scs, and average_as.
 To structure the data, group the results according to the relevant variable, and implement an ORDER BY clause with the appropriate keyword for descending sorting.
-
-![final_query](https://github.com/user-attachments/assets/8b15bf90-d263-4e32-99c9-baff23d18f7e)
 
 ## Interpretation of the Results
 
