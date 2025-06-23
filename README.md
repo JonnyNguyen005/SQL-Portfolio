@@ -17,11 +17,9 @@ Description: This project analyzes mental health data of international students 
 SQL Skills Used: Filtering, Aggregation, Conditional Analysis, Group By, Data Interpretation  
 [View SQL Script](./student_mental_health_analysis/mental_health_analysis.sql)
 
----
-
-## 📬 Contact
-
 Feel free to explore the projects and SQL scripts to see my work in action. If you have any questions or feedback, please don't hesitate to reach out!
 
-Note: To view the SQL scripts, navigate to the respective file paths provided in each project description.
+---
+
+*Note: To view the SQL scripts, navigate to the respective file paths provided in each project description.*
 
