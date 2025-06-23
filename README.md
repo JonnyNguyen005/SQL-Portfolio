@@ -8,7 +8,7 @@ This repository showcases a selection of SQL projects that highlight my skills i
   * **SQL Skills Used:** Filtering, Aggregation, Date Functions, Group By, Ordering, Revenue Calculation Logic  
 [View SQL Script](./wholesale_revenue_analysis/wholesale_revenue_analysis.sql)
 
-* ### Project: Student Mental Health and Length of Stay  
+* ### Project: Student Mental Health 
   * **Description:** This project analyzes mental health data of international students to assess the impact of length of stay abroad on depression, social belonging, and acculturation stress. It presents score averages by stay duration to uncover stress patternv s.  
   * **SQL Skills Used:** Filtering, Aggregation, Conditional Analysis, Group By, Data Interpretation  
 [View SQL Script](./student_mental_health_analysis/mental_health_analysis.sql)
