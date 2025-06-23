@@ -9,7 +9,7 @@ This repository showcases a selection of SQL projects that highlight my skills i
 [View SQL Script](./wholesale_revenue_analysis/wholesale_revenue_analysis.sql)
 
 * ### Project: Student Mental Health[>](https://github.com/JonnyNguyen005/SQL-Portfolio/tree/main/Mental%20Health)
-  * **Description:** This project analyzes mental health data of international students to assess the impact of length of stay abroad on depression, social belonging, and acculturation stress. It presents score averages by stay duration to uncover stress patternv s.  
+  * **Description:** This project analyzes mental health data of international students to assess the impact of length of stay abroad on depression, social belonging, and acculturation stress. It presents score averages by stay duration to uncover stress patterns.  
   * **SQL Skills Used:** Filtering, Aggregation, Conditional Analysis, Group By, Data Interpretation  
 [View SQL Script](./student_mental_health_analysis/mental_health_analysis.sql)
 
